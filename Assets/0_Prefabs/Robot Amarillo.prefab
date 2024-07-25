@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1984294227724293807
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -85.998
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 43.069
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302335693811333182, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 46.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406912614293745308, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc45c5dd4a9732545bd90a155c60ef76, type: 2}
+    - target: {fileID: 8983178655161156107, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
+      propertyPath: m_Name
+      value: Robot Amarillo
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a17c7a473e1d0984d804d974bf55aef7, type: 3}
